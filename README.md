@@ -1,17 +1,16 @@
-![Logo de Rep'Aero](/images/repaero.png)
-# Rep'Aero - Migration du SI
-Ce dépôt contient les livrables attendus pour le **Projet 7** du parcours d'**Architecte Logiciel** d'**OpenClassrooms**, intitulé _Réalisez un plan d'implémentation pour assurer le bon déroulement de votre projet d'architecture_.
+![Logo de Medhead](/images/logoMedHead.png)
+# MedHead - Sous-système d'intervention d'urgence
+Ce dépôt contient les livrables attendus pour le **Projet 11** du parcours d'**Architecte Logiciel** d'**OpenClassrooms**, intitulé _Faites adhérer les parties prenantes avec un POC_.
 
 # Contenu du dépôt
 ## Artefacts
 Les documents suivants, au format PDF :
-- P7_01_Analyse de faisabilité;
-- P7_02_Feuille de route;
-- P7_03_Plan d'implémentation;
-
-## Présentation
-Le document suivant, au format PDF :
-- P7_04_Présentation
+- P11_02_01_description du pipeline;
+- P11_02_02_plan de test;
+- P11_02_03_hypothese de developpement;
+- P11_02_04_principes de l architecture;
+- P11_02_05_statement of architecture work;
+- P11_02_06_solution building blocks;
 
 ## Images
 Les images présentes dans les documents listés ci-dessus.
